@@ -127,3 +127,7 @@ Many more....
   Copyright © 2023 [Prajwal R.](https://raiprajwal.com/)
   
 <p style="text-align:center">Thank You so much for your time !!!</p>
+
+<!-- help -->
+
+<!-- php artisan optimize:clear --> para optimizar, borrando los archivos de la cache, generados por la optimizacion de la aplicacion, necesario cuando se realizan cambios en los archivos de configuracion de la aplicacion 
